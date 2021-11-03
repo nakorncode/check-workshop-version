@@ -2,5 +2,9 @@
     "NakornCode Workshop - Core": {
         "latest": "1.0.1",
         "reason": "Test message"
+    },
+    "NakornCode Workshop - Git": {
+        "latest": "1.0.0",
+        "reason": "เริ่มต้นโปรเจคใหม่"
     }
 }
